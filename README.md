@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Raghad Khaed
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raghadkhaed03/raghadkhaed03/main/profile.jpg" width="180" />
+</p>
 
-🎓 Computer Engineering Student at Birzeit University  
-💻 Interested in Software Development
+<h1 align="center">Hi, I'm Raghad Khaled 👋</h1>
+
+<p align="center">
+Computer Engineering Student at Birzeit University
+</p>
 
 ---
 
