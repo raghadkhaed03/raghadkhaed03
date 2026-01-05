@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Raghad Khaed
 
-<!--
-**raghadkhaed03/raghadkhaed03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Birzeit University  
+💻 Interested in Software Development 
+🌱 Actively building projects and improving practical skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python" />
+</p>
+  
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+
+---
+
+
+## 📫 How to reach me
+- Email: raghadrinad@gmail.com
+- LinkedIn: https://www.linkedin.com/in/raghad-khaled-782a89347/
