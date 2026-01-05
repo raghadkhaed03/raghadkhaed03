@@ -2,11 +2,10 @@
 
 🎓 Computer Engineering Student at Birzeit University  
 💻 Interested in Software Development
-🌱 Actively building projects and improving practical skills  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
 ### Programming Languages
 
